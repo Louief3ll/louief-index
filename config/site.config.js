@@ -38,11 +38,11 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/tresillo2017/tomasps-drive" target="_blank" rel="noopener noreferrer">source-code</a>. Made with ❤ by TomasPS.',
+    'Powered by <a href="https://github.com/tresillo2017/tomasps-drive" target="_blank" rel="noopener noreferrer">onedrive</a>. Made with ❤ by TomasPS.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/Test', '/ROMs/Private'],
+  protectedRoutes: ['/Test', '/ROMs/🔒 Private', '/🏢 Work JC1'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:contact@tomasps.tk',
